@@ -1,0 +1,14 @@
+{
+    'books': [
+        {'title': 'The Diary of a Young Girl', 'author': 'Anne Frank'}, 
+        {'title': 'The Book Thief', 'author': 'Markus Zusak'}, 
+        {'title': 'All the Light We Cannot See', 'author': 'Anthony Doerr'}, 
+        {'title': 'The Guns of Navarone', 'author': 'Alistair MacLean'}, 
+        {'title': 'Band of Brothers', 'author': 'Stephen E. Ambrose'}, 
+        {'title': 'The Rise and Fall of the Third Reich', 'author': 'William L. Shirer'}, 
+        {'title': 'The Hiding Place', 'author': 'Corrie ten Boom'}, 
+        {'title': "Schindler's List", 'author': 'Thomas Keneally'}, 
+        {'title': 'Unbroken', 'author': 'Laura Hillenbrand'}, 
+        {'title': 'The Second World War', 'author': 'Antony Beevor'}],
+    'size': 10
+}
